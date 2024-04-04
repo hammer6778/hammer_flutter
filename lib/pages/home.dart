@@ -104,7 +104,7 @@ class HomeState extends State<Home> with AutomaticKeepAliveClientMixin {
               ),
               child: TextField(
                 decoration: InputDecoration(
-                  hintText: '输入商品进行搜索',
+                  hintText: '输入进行搜索',
                   prefixIcon: Icon(Icons.search),
                   border: InputBorder.none,
                 ),
