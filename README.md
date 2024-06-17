@@ -5,8 +5,8 @@ demo
  在谷歌浏览器上运行
 `flutter run -d chrome`
 
-详情页
-<img width="414" alt="image" src="https://github.com/hammer6778/hammer_flutter/assets/166033613/9ce38fae-7a4d-4122-8d4b-e65583c0000e">
+详情视频播放页
+<img width="406" alt="image" src="https://github.com/hammer6778/hammer_flutter/assets/166033613/a1234c79-0d26-45b0-a981-05deb3853d65">
 
 <img width="435" alt="image" src="https://github.com/hammer6778/hammer_flutter/assets/166033613/35a31699-a32b-4c80-8982-305313a57469">
 
